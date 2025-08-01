@@ -16,11 +16,22 @@
 
 ## ⚙️ Cara Menjalankan
 
-1. Pastikan Python 3.7+ sudah terinstall
-2. Install dependensi `rich`:
+1.install depetensi:
    ```bash
+   pkg update
+   pkg upgrade -y
+   pkg install python -y
+   pkg install python-pip -y
+   pkg install git -y
    pip install rich
+   git clone https://github.com/Putrazaubdillah/Celenganku-.git
+   ```
+
+2.menjalankan:
+   ```bash
+   cd Celenganku
    python celenganku.py
+   ```
 
 ---
 
