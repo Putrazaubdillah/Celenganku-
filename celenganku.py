@@ -215,8 +215,8 @@ def menu_information():
         
         #Panel informasi creator
         content_creator = (
-            "[bold]Pemilik:[/] NeoBot\n"
-            "[bold]Pembuat:[/] NeoDev\n"
+            "[bold]Pemilik:[/] Putrazaubadillah\n"
+            "[bold]Pembuat:[/] Putrazaubadillah\n"
             "[bold]Version:[/] V2.0.0\n\n\n"
             f"[#7f7f7f]{'Tanggal:'.center(35)}[/#7f7f7f]\n"
             f"[#7f7f7f]{'01-08-2025'.center(35)}[/#7f7f7f]\n"
