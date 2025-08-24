@@ -30,7 +30,7 @@
 2.menjalankan:
    ```bash
    cd Celenganku
-   python celenganku.py
+   python main.py
    ```
 
 ---
